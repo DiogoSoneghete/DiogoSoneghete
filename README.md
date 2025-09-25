@@ -6,7 +6,7 @@ Me chamo Diogo Soneghete, tenho 22 anos e sou natural do Espirito Santo.
 
 Atualmente, estou cursando Ciências da Computação na Universidade Vila Velha.
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/DiogoSoneghete?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
