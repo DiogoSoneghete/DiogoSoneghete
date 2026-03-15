@@ -135,13 +135,15 @@ Atualmente, estou cursando Ciências da Computação na Universidade Vila Velha.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DiogoSoneghete&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200" 
+    src="https://github-readme-stats.vercel.app/api?username=DiogoSoneghete&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
+<img 
       align="left" 
-      alt="Top Langs" 
+      alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSoneghete&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=7200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSoneghete&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
+
