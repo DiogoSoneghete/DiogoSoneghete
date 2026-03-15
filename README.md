@@ -131,12 +131,12 @@ Atualmente, estou cursando Ciências da Computação na Universidade Vila Velha.
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DiogoSoneghete&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=DiogoSoneghete&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=7200" 
+/>
 
 <img 
       align="left" 
