@@ -2,9 +2,10 @@
 
 **`Desenvolvedor`**
 
-Me chamo Diogo Soneghete, tenho 22 anos e sou natural do Espirito Santo. 
-
-Atualmente, estou cursando Ciências da Computação na Universidade Vila Velha.
+👋 Olá! Eu sou o Diogo
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Full-stack
+📍 Espírito Santo - Brasil
 
 <p align="center">
     <a href="https://github.com/DiogoSoneghete?tab=repositories&sort=stargazers">
