@@ -45,11 +45,6 @@ Atualmente focado no desenvolvimento de **APIs escaláveis usando Node.js e Type
 ### 📊 Estatísticas
 
 <p>
-  <img 
-  align="left" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoSoneghete&theme=tokyonight&locale=pt_BR" 
-  alt="GitHub Streak" 
-/>
 
 <img 
       align="left" 
