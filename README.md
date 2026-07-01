@@ -44,14 +44,13 @@ Atualmente focado no desenvolvimento de **APIs escaláveis usando Node.js e Type
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSoneghete&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img
+    alt="Tecnologias"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoSoneghete&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
 
 </p>
 
