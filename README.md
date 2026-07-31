@@ -6,6 +6,8 @@
 🎓 Computer Science Student — UVV  
 📍 Espírito Santo, Brazil
 
+https://portifolio-diogo-soneghete.vercel.app/
+
 Sou apaixonado por tecnologia, desenvolvimento de software e arquitetura de sistemas.  
 Atualmente focado no desenvolvimento de **APIs escaláveis usando Node.js e TypeScript**.
 ---
