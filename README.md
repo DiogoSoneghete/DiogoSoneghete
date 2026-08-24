@@ -47,7 +47,7 @@ Atualmente focado no desenvolvimento de **APIs escaláveis usando Node.js e Type
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Linguagens&query=total&url=https://api.github.com/repos/DiogoSoneghete/DiogoSoneghete&suffix=%20repos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiogoSoneghete&theme=tokyonight&row=2&column=4" />
 </p>
 
 </p>
