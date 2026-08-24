@@ -47,11 +47,7 @@ Atualmente focado no desenvolvimento de **APIs escaláveis usando Node.js e Type
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSoneghete&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css" 
-  />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Linguagens&query=total&url=https://api.github.com/repos/DiogoSoneghete/DiogoSoneghete&suffix=%20repos" />
 </p>
 
 </p>
