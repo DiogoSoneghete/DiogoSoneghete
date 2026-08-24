@@ -43,12 +43,3 @@ Atualmente focado no desenvolvimento de **APIs escaláveis usando Node.js e Type
 ![Minhas Tecnologias](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,cs,java,html,css,mysql,git)
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiogoSoneghete&theme=tokyonight&row=2&column=4" />
-</p>
-
-</p>
-
